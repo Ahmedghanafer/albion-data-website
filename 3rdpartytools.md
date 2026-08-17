@@ -17,6 +17,7 @@ options for you based on current prices.
 - [Albionix Tools](https://albionix.app/) is a calculator for Transporting Item profitability and some market analysis. Maintained by Discord User Kytavian#4406.
 - [Albion Online Tools](https://albiononlinetools.com/) is a site with a bunch of tools for Albion Online users. Maintained by Discord User legita.
 - [Albion Online Grind](https://albiononlinegrind.com/) offers a multifaceted toolkit that empowers you to manage islands efficiently, organise your stored items seamlessly, create visual Avalonian road maps, stay on top of important timers, calculate item enchantments with ease, and maximise farming profits. And much more. Maintained by Discord User ummahusla.
+- [Profit Forge](https://albionprofitforge.com/) shows live profit calculations for what to craft, refine, flip or salvage right now, across every royal city, Brecilien and the Black Market, personalised to your premium status and Destiny Board. Maintained by Discord User darko8080.
 
 
 # Sites / Projects not related to AODP
